@@ -1,7 +1,7 @@
 uuid: 99dc5888-f287-4ee0-bf8c-e6c93253c0fd
 name: circleci-rick
 mail: rick@flowmediadesign.com
-slogan: ''
+slogan: 'Testing Circle CI workflow'
 page:
   403: ''
   404: ''
